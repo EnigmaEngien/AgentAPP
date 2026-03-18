@@ -1,2 +1,2 @@
-# Agent Zero Desktop App Dependencies
-pyloid>=0.2.0
+# No Python dependencies required for Electron desktop app
+# This file is a placeholder for future Python helper scripts
