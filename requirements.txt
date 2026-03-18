@@ -1,0 +1,2 @@
+# Agent Zero Desktop App Dependencies
+pyloid>=0.2.0
